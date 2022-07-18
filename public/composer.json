@@ -21,9 +21,5 @@
   "license": "MIT",
   "support": {
     "issues": "https://github.com/ColorlibHQ/AdminLTE/issues"
-  },
-  "require": {
-    "phpmailer/phpmailer": "^6.6",
-    "league/oauth2-google": "^4.0"
   }
 }
